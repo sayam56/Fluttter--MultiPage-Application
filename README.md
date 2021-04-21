@@ -1,6 +1,6 @@
 # multi_page_app
 
-A new Flutter project.
+A beginner application meant to focus on the usage of navigators to implement multiple pages along with a fun use of navigation URLs and sliver appbars. 
 
 ## Getting Started
 
